@@ -1,6 +1,6 @@
 **[Database] Urban Water Consumption at Multiple Spatial and Temporal Scales. A Review of Existing Datasets.**
 
-This file contains the complete catalog of datasets and publications reviewed in: Di Mauro A., Cominola A., Castelletti A., Di Nardo A.. Urban Water Consumption at Multiple Spatial and Temporal Scales. A Review of Existing Datasets. Water 2021.The complete catalog contains:
+This file contains the complete catalog of datasets and publications reviewed in: **_Di Mauro A., Cominola A., Castelletti A., Di Nardo A.. Urban Water Consumption at Multiple Spatial and Temporal Scales. A Review of Existing Datasets. Water 2021._** The complete catalog contains:
 
 92 state-of-the-art water demand datasets identified at the district, household, and end use scales;
 120 related peer-reviewed publications;
@@ -32,9 +32,9 @@ The following metadata are reported, for each publication:
 * Location
 
 Authors:
-Anna Di Mauro - Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |  anna.dimauro@unicampania.it;
-Andrea Cominola - Chair of Smart Water Networks | Technische Universität Berlin - Einstein Center Digital Future (Germany) |  andrea.cominola@tu-berlin.de;
-Andrea Castelletti - Department of Electronics, Information and Bioengineering | Politecnico di Milano (Italy) | andrea.castelletti@polimi.it
-Armando Di Nardo -Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |   armando.dinardo@unicampania.it (edited) 
+* Anna Di Mauro - Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |  anna.dimauro@unicampania.it;
+* Andrea Cominola - Chair of Smart Water Networks | Technische Universität Berlin - Einstein Center Digital Future (Germany) |  andrea.cominola@tu-berlin.de;
+* Andrea Castelletti - Department of Electronics, Information and Bioengineering | Politecnico di Milano (Italy) | andrea.castelletti@polimi.it
+* Armando Di Nardo -Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |   armando.dinardo@unicampania.it (edited) 
 
  
