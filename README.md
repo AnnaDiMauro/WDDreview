@@ -8,28 +8,28 @@ This file contains the complete catalog of datasets and publications reviewed in
 
 The following metadata are reported, for each dataset:
 
--Authors
--Year
--Location
--Dataset Size
--Time Series Length
--Time Sampling Resolution
--Access Policy.
+*Authors
+*Year
+*Location
+*Dataset Size
+*Time Series Length
+*Time Sampling Resolution
+*Access Policy.
 
 The following metadata are reported, for each publication:
 
--Authors
--Year
--Journal
--Title
--Spatial Scale
--Type of Study: Survey (S) / Dataset (D)
--Domain: Water (W)/Electricity (E)
--Time Sampling Resolution
--Access Policy
--Dataset Size
--Time Series Length
--Location
+*Authors
+*Year
+*Journal
+*Title
+*Spatial Scale
+*Type of Study: Survey (S) / Dataset (D)
+*Domain: Water (W)/Electricity (E)
+*Time Sampling Resolution
+*Access Policy
+*Dataset Size
+*Time Series Length
+*Location
 
 Authors:
 Anna Di Mauro - Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |  anna.dimauro@unicampania.it;
