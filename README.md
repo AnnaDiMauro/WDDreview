@@ -40,6 +40,8 @@ Authors:
 * _Armando Di Nardo_ -Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |   armando.dinardo@unicampania.it (edited) 
 
  
-**The catalogue stored in this public GitHub repository can be collaboratively updated as more datasets become available. 
-Pull requests can be submitted to the authors, so that the dataset collection can be improved by different contributors. 
-Contributors will be cited, step by step, in the updated release of the dataset catalogue.**
+**The catalogue stored in this public GitHub repository can be collaboratively updated as more datasets become available.** 
+
+**Pull requests can be submitted to the authors, so that the dataset collection can be improved by different contributors.** 
+
+**Contributors will be cited, step by step, in the updated release of the dataset catalogue.**
