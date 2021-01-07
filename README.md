@@ -1,6 +1,7 @@
 **[Database] Urban Water Consumption at Multiple Spatial and Temporal Scales. A Review of Existing Datasets.**
 
-This file contains the complete catalog of datasets and publications reviewed in:[Di Mauro A, Cominola A, Castelletti A, Di Nardo A. Urban Water Consumption at Multiple Spatial and Temporal Scales. A Review of Existing Datasets. Water. 2021; 13(1):36.](https://www.mdpi.com/2073-4441/13/1/36)
+This file contains the complete catalog of datasets and publications reviewed in:
+[Di Mauro A, Cominola A, Castelletti A, Di Nardo A. Urban Water Consumption at Multiple Spatial and Temporal Scales. A Review of Existing Datasets. Water. 2021; 13(1):36.](https://www.mdpi.com/2073-4441/13/1/36)
 
 The complete catalog contains:
 
@@ -35,7 +36,7 @@ The following metadata are reported, for each publication:
 
 Authors:
 * _Anna Di Mauro_ - Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |  anna.dimauro@unicampania.it;
-* _Andrea Cominola_ - Chair of Smart Water Networks | Technische Universität Berlin - Einstein Center Digital Future (Germany) |  andrea.cominola@tu-berlin.de;
+* _Andrea Cominola_ - [Chair of Smart Water Networks](https://www.swn.tu-berlin.de/menue/smart_water_networks/) | Technische Universität Berlin - Einstein Center Digital Future (Germany) |  andrea.cominola@tu-berlin.de;
 * _Andrea Castelletti_ - Department of Electronics, Information and Bioengineering | Politecnico di Milano (Italy) | andrea.castelletti@polimi.it
 * _Armando Di Nardo_ -Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |   armando.dinardo@unicampania.it 
 
