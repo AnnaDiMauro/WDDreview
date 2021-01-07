@@ -1,6 +1,6 @@
 **[Database] Urban Water Consumption at Multiple Spatial and Temporal Scales. A Review of Existing Datasets.**
 
-This file contains the complete catalog of datasets and publications reviewed in:_[Di Mauro A, Cominola A, Castelletti A, Di Nardo A. Urban Water Consumption at Multiple Spatial and Temporal Scales. A Review of Existing Datasets. Water. 2021; 13(1):36.]_ (https://www.mdpi.com/2073-4441/13/1/36)
+This file contains the complete catalog of datasets and publications reviewed in:[Di Mauro A, Cominola A, Castelletti A, Di Nardo A. Urban Water Consumption at Multiple Spatial and Temporal Scales. A Review of Existing Datasets. Water. 2021; 13(1):36.](https://www.mdpi.com/2073-4441/13/1/36)
 
 The complete catalog contains:
 
