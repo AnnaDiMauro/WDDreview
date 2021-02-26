@@ -45,3 +45,6 @@ Authors:
 
 **Pull requests can be submitted to the authors, so that the dataset collection can be improved by different contributors.** 
 **Contributors will be cited, step by step, in the updated release of the dataset catalogue.**
+
+**CONTRIBUTORS**
+1. Pacheco, C.J.B., Horsburgh, J.S., Tracy, J.R.. The dataset associated with the paper [A Low-Cost, Open Source Monitoring System for Collecting High Temporal Resolution Water Use Data on Magnetically Driven Residential Water Meters](https://doi.org/10.3390/s20133655) is published in the HydroShare repository and is openly and freely available. See: https://doi.org/10.4211/hs.4de42db6485f47b290bd9e17b017bb51
