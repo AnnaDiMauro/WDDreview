@@ -40,7 +40,7 @@ The following **metadata** are reported, for each **publication**:
 * _Andrea Castelletti_ - Department of Electronics, Information and Bioengineering | Politecnico di Milano (Italy) | andrea.castelletti@polimi.it
 * _Armando Di Nardo_ -Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |   armando.dinardo@unicampania.it 
 
-### Citation and reference:
+## Citation and reference:
 To cite our database, please refer to [this stable version](http://doi.org/10.5281/zenodo.4390460): 
 ```
 Di Mauro Anna, Cominola Andrea, Castelletti Andrea, & Di Nardo Armando. (2020). [Database] Urban Water 
@@ -59,6 +59,6 @@ Spatial and Temporal Scales. A Review of Existing Datasets. Water, 13(1), 36, ht
 **Pull requests can be submitted to the authors, so that the dataset collection can be improved by different contributors.** 
 **Contributors will be cited, step by step, in the updated release of the dataset catalogue.**
 
-#### UPDATES and CONTRIBUTIONS HISTORY 
+## Updates and Contributions history
 1. March 1st, 2021 - Pacheco, C.J.B., Horsburgh, J.S., Tracy, J.R. (Utah State University, Logan, UT - USA) --- 
    The dataset associated with paper [Bastidas Pacheco, C.J.; Horsburgh, J.S.; Tracy, R.J.. A Low-Cost, Open Source Monitoring System for Collecting High Temporal Resolution Water Use Data on Magnetically Driven Residential Water Meters. Sensors 2020, 20, 3655.](https://doi.org/10.3390/s20133655) is published in the HydroShare repository, where it is available as an OPEN dataset. Data can be found here: https://doi.org/10.4211/hs.4de42db6485f47b290bd9e17b017bb51
