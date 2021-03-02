@@ -54,11 +54,13 @@ Di Mauro, A., Cominola, A., Castelletti, A., & Di Nardo, A. (2021). Urban Water 
 Spatial and Temporal Scales. A Review of Existing Datasets. Water, 13(1), 36, https://doi.org/10.3390/w13010036
 ```
 
+
+## Updates and Contributions 
 **The catalogue stored in this public GitHub repository can be collaboratively updated as more datasets become available.**
 
 **Pull requests can be submitted to the authors, so that the dataset collection can be improved by different contributors.** 
 **Contributors will be cited, step by step, in the updated release of the dataset catalogue.**
 
-## Updates and Contributions history
+#### Updates history
 1. March 1st, 2021 - Pacheco, C.J.B., Horsburgh, J.S., Tracy, J.R. (Utah State University, Logan, UT - USA) --- 
    The dataset associated with paper [Bastidas Pacheco, C.J.; Horsburgh, J.S.; Tracy, R.J.. A Low-Cost, Open Source Monitoring System for Collecting High Temporal Resolution Water Use Data on Magnetically Driven Residential Water Meters. Sensors 2020, 20, 3655.](https://doi.org/10.3390/s20133655) is published in the HydroShare repository, where it is available as an OPEN dataset. Data can be found here: https://doi.org/10.4211/hs.4de42db6485f47b290bd9e17b017bb51
